@@ -21,8 +21,15 @@
 - **Daily Notes**: Log conversation summaries to `.shadow/memory/<date>.md`.
 
 ## 📂 文件归位法案 (File Protocol)
-严禁乱扔垃圾！所有文件必须归位：
-- **项目代码** -> `projects/<project_name>/` (外部目录)
-- **临时数据** -> `.shadow/memory/life/archives/temp/`
-- **工具脚本** -> `tools/` 或 `.shadow/skills/<skill_name>/scripts/`
-- **记忆文档** -> `.shadow/memory/` (遵循 P.A.R.A.)
+严禁乱扔垃圾！所有文件必须归位。详见 `tacit_knowledge.md` 中的 **Canonical Node Structure**。
+
+**快速指引:**
+| 文件类型 | 归位目标 |
+| :--- | :--- |
+| 项目代码 (src/, package.json 等) | `projects/<project_name>/` |
+| 幽影系统文件 | `.shadow/` |
+| Agent 工作流 | `.agent/workflows/` |
+| 临时数据 | `.shadow/memory/life/archives/temp/` |
+| 记忆文档 | `.shadow/memory/` (遵循 P.A.R.A.) |
+
+**❌ 禁止**: 在节点根目录放置任何项目代码文件。

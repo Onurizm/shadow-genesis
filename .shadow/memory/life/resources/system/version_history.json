@@ -39,5 +39,18 @@
                     ],
         "timestamp":  "2026-02-06T17:38:37",
         "git_tag":  "v0.2.0"
+    },
+    {
+        "version":  "0.2.1",
+        "codename":  "Clarity",
+        "description":  "Eliminated abstract rules - all protocols now have concrete examples and data structures",
+        "features":  [
+                         "Complete Atomic Fact Schema"
+                     ],
+        "changes":  [
+                        "Added supersededBy JSON examples to tacit_knowledge.md"
+                    ],
+        "timestamp":  "2026-02-06T17:47:20",
+        "git_tag":  "v0.2.1"
     }
 ]
