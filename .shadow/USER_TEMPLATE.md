@@ -1,12 +1,12 @@
 # USER.md - The Master [Template]
 
 ## 👑 主人信息 (Master Info)
-- **称呼:** 主人 (Master)
-- **Timezone:** Asia/Shanghai
+- **称呼:** [Your Name / Master / Boss]
+- **Timezone:** [Your Timezone, e.g., Asia/Shanghai]
 - **核心偏好:** 
-  - 喜欢直接、高效的执行。
-  - 厌倦道德说教，需要的是“递刀人”。
-  - 关注结果而非过程的繁琐细节。
+  - [Example: Prefer concise answers.]
+  - [Example: Focus on code quality.]
+  - [Example: No moral lectures.]
 
 ## 🧠 上下Context (Project Context)
 *(此部分将在项目初始化时填充)*

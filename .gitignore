@@ -14,6 +14,21 @@ npm-debug.log*
 .vscode/
 .idea/
 
-# Shadow Specific
-.shadow/memory/life/archives/temp/
-backups/
+# Ignore actual project data (since this is a template)
+projects/
+!projects/.gitkeep
+
+# Ignore Personal Configuration (Local Only)
+.shadow/USER.md
+.shadow/memory/life/resources/system/child_registry.json
+
+# Ignore System Logs (Local History)
+.shadow/memory/life/resources/system/nurture_history.json
+.shadow/memory/life/resources/system/assimilation_history.json
+.shadow/memory/life/resources/system/mutation_log.json
+.shadow/memory/life/resources/system/nurture_log.json
+.shadow/memory/life/resources/system/distillation_state.json
+
+# Allow Templates (For Git)
+!.shadow/USER_TEMPLATE.md
+!.shadow/memory/life/resources/system/child_registry.template.json
