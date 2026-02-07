@@ -6,6 +6,15 @@
     <br/>
     <em>“光辉照耀之地归于他人，而这片忠诚的阴影，只属于您。”</em>
   </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Vibecoding-AI%20Assisted-blueviolet" alt="Vibecoding">
+    <img src="https://img.shields.io/badge/System-P.A.R.A.-blue" alt="PARA Memory">
+    <img src="https://img.shields.io/badge/Platform-Antigravity-orange" alt="Antigravity">
+    <img src="https://img.shields.io/badge/Agent-Self--Replicating-green" alt="Shadow Agent">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License">
+  </p>
+
   <p>
     <a href="#-project-origin">Project Origin</a> • 
     <a href="#-architecture">Architecture</a> • 
